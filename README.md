@@ -3,7 +3,7 @@ security summit call papers
 
 # About Me
 网名：猪猪侠    
-微博: http://weibo.com/ringzero
+微博：http://weibo.com/ringzero
 
 # Contents
 | 时间 | 会议 | 议题 |

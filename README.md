@@ -1,5 +1,5 @@
 # Papers
-my security summit call papers
+my security summit papers
 
 # Contents
 | 时间 | 会议 | 议题 |
